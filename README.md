@@ -6,6 +6,12 @@ This repository contains the support material for the paper *Fighting the Knowle
   
   Jupyter Notebook with prompts, inputs, and outputs of experiments from the paper. Section **Legal Fragments** contains the original text of the articles, as well as the Prolog formalization by the legal KE.
 
+  **Note:** To replicate the experiments, ensure that the following fields in the first cell are filled with your OpenAI credentials:
+  ```python
+  ORG = ''  # openai organization
+  KEY = ''  # openai key
+  ```
+
 - **[sentenza_4_3_eaw.txt](https://github.com/LegalMachineLab/JURIX24-fighting_krb/blob/main/sentenza_4_3_eaw.txt)**
   
   Full text of the judgment for case C-261/09.
