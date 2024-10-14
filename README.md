@@ -4,7 +4,7 @@ This repository contains the support material for the paper *Fighting the Knowle
 
 - **[JURIX24_fighting_krb.ipynb](https://github.com/LegalMachineLab/JURIX24-fighting_krb/blob/main/JURIX24_fighting_krb.ipynb)**
   
-  Jupyter Notebook with prompts, inputs, and outputs of experiments from the paper. Section *Legal Fragments* contains the original text of the articles, as well as the Prolog formalization by the legal KE.
+  Jupyter Notebook with prompts, inputs, and outputs of experiments from the paper. Section **Legal Fragments** contains the original text of the articles, as well as the Prolog formalization by the legal KE.
 
 - **[sentenza_4_3_eaw.txt](https://github.com/LegalMachineLab/JURIX24-fighting_krb/blob/main/sentenza_4_3_eaw.txt)**
   
